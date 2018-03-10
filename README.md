@@ -25,3 +25,4 @@ Tables Used:
 5.	Student-course: the courses that student registers for with professorid
 6.	Prof-course: professor course means the courses they teach, with the professor name.
 
+# GPADetectionModule
